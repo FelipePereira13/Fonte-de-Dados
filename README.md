@@ -10,3 +10,7 @@ Foram Criadas as respostas usando a Forma (=MÁXIMOSES) para efetuar a busca de 
 <img width="1919" height="994" alt="Excel" src="https://github.com/user-attachments/assets/c06cbb70-eb72-4725-bc65-73051fd7b151" />
 <img width="1919" height="994" alt="Power bi" src="https://github.com/user-attachments/assets/ea802b54-c5f6-4a79-aca6-b60d26a6d9f0" />
 Análise de Dados Abertos em CSV, Convertidos em XLSX , Sobre NCM , usando a Fórmula =PROCV para unificar os Dados, Com Nomes, Números e Códigos.
+## Atividade 4: Análise Exploratória de Dados abertos no Comex Stat e Criação de Graficos com Dados Reais
+<img width="1919" height="974" alt="Gráfico Bi" src="https://github.com/user-attachments/assets/e460683c-ad62-4485-8893-f8819df5e4a2" />
+<img width="1914" height="971" alt="Valor FOB" src="https://github.com/user-attachments/assets/42ac5408-69f1-437b-b39e-5e2ebbbc456d" />
+Foram Criados Gráficos interativos de Análise Visual com Dados Reais do Comex Stat de arquivos CSV de Exportação em 2025.
