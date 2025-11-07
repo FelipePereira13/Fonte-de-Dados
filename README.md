@@ -14,3 +14,10 @@ Análise de Dados Abertos em CSV, Convertidos em XLSX , Sobre NCM , usando a Fó
 <img width="1919" height="974" alt="Gráfico Bi" src="https://github.com/user-attachments/assets/e460683c-ad62-4485-8893-f8819df5e4a2" />
 <img width="1914" height="971" alt="Valor FOB" src="https://github.com/user-attachments/assets/42ac5408-69f1-437b-b39e-5e2ebbbc456d" />
 Foram Criados Gráficos interativos de Análise Visual com Dados Reais do Comex Stat de arquivos CSV de Exportação em 2025.
+## Atividade 5: Dados do Comex Stat tratados em Bi ( Valor FOB ) e Regioes selecionadas pelos Alunos.
+<img width="1919" height="973" alt="bandeiras" src="https://github.com/user-attachments/assets/ff0663fe-5285-4211-8749-e208667bcb5c" />
+<img width="1919" height="974" alt="mapa" src="https://github.com/user-attachments/assets/6946a098-f2dd-4e8e-b289-e8cebeb74ba4" />
+Gráficos Criados de acordo com o CSV do Comex Stat, Valor FOB e Bandeiras; Mapa Visual e Bandeiras.
+## Atividade 6: Dados tratados em Python no Google Colab
+<img width="1733" height="472" alt="Captura de tela 2025-11-06 211244" src="https://github.com/user-attachments/assets/9bc43acd-4aab-40c9-83b0-b14da1db3597" />
+Foram usados dados do site Kaggle, baixado em CSV. Tratados em Excel e Python pelo Google Colab Criando um Gráfico Linear.
